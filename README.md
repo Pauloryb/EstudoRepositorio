@@ -1,5 +1,5 @@
 # Estudo Repositorio
 
-![./Fighter.jpg](Nave)
+![Fighter](Fighter.jpg)
 
 Este repositório serve de exemplo para o estudo de Git e GitHub.
